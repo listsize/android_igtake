@@ -90,17 +90,6 @@ class MainActivity : BaseBillingActivity(), ViewPager.OnPageChangeListener,
 
         setContentView(R.layout.activity_main)
 
-        // Creates a button that mimics a crash when pressed
-        val crashButton = Button(this)
-        crashButton.text = "Test Crash"
-        crashButton.setOnClickListener {
-            throw RuntimeException("Test Crash") // Force a crash
-        }
-
-        addContentView(crashButton, ViewGroup.LayoutParams(
-            ViewGroup.LayoutParams.MATCH_PARENT,
-            ViewGroup.LayoutParams.MATCH_PARENT))
-
         val mode = resources.configuration.uiMode and Configuration.UI_MODE_NIGHT_MASK
         if (mode != Configuration.UI_MODE_NIGHT_YES) {
             window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR

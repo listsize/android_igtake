@@ -3,6 +3,7 @@ package com.instadownloader.instasave.igsave.ins
 import android.content.Context
 import android.os.Build
 import android.webkit.WebView
+import com.aos.module.base.BaseUtils
 import com.google.android.ads.AdSplashApplication
 import com.google.android.ads.AdUnitID
 import com.liulishuo.filedownloader.FileDownloader
@@ -31,6 +32,8 @@ class MyApp : AdSplashApplication(){
 
         super.onCreate()
         gContext = applicationContext
+        BaseUtils.app = this
+        BaseUtils.download_folder = resources.getString(R.string.app_name)
 
         appContainer = MyAppContainer()
 
