@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "89887417188",
     "project_id": "instake-5abb4",
-    "storage_bucket": "instake-5abb4.appspot.com"
+    "storage_bucket": "instake-5abb4.firebasestorage.app"
   },
   "client": [
     {
@@ -12,12 +12,7 @@
           "package_name": "com.instadownloader.instasave.igsave.ins"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "89887417188-fa3il4g569chauccekhjks68oltfv512.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
           "current_key": "AIzaSyBCqoFlCTLL6exghV9ENRFVxpkPJ6oXzYI"
@@ -25,12 +20,7 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "89887417188-fa3il4g569chauccekhjks68oltfv512.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
