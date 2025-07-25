@@ -1,0 +1,1 @@
+[android take](com.instadownloader.instasave.igsave.ins)
