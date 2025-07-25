@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:strokeWidth="0dp"
+    app:cardElevation="3dp"
+    android:layout_height="100dp"
+    android:layout_width="match_parent"
+    android:layout_marginStart="@dimen/activity_horizontal_margin"
+    android:layout_marginTop="4dp"
+    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+    android:layout_marginBottom="4dp"
+    android:id="@+id/cardview"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="90dp"
+            android:layout_height="match_parent">
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@color/gray">
+            </androidx.appcompat.widget.AppCompatImageView>
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/video_lt"
+                android:visibility="visible"
+                android:src="@drawable/ic_action_video"
+                android:layout_width="25dp"
+                android:layout_height="25dp">
+            </androidx.appcompat.widget.AppCompatImageView>
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/manypic_rt"
+                android:src="@drawable/ic_action_manypic"
+                android:layout_alignParentEnd="true"
+                android:visibility="visible"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true">
+            </androidx.appcompat.widget.AppCompatImageView>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp">
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp">
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/profile_pic"
+                        android:src="@drawable/ic_action_help"
+                        android:layout_centerVertical="true"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"/>
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="@dimen/activity_horizontal_margin"
+                        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                        android:layout_toRightOf="@id/profile_pic"
+                        android:text="@string/app_name"
+                        android:textStyle="bold"></TextView>
+                </RelativeLayout>
+                <TextView
+                    android:id="@+id/content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/app_name"
+                    android:maxLines="2"
+                    >
+                </TextView>
+            </LinearLayout>
+            <ImageButton
+                android:id="@+id/menu"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_alignParentEnd="true"
+                android:background="@drawable/more_btn_selector"
+                android:padding="3.0dip"
+                android:layout_width="36.0dip"
+                android:layout_height="36.0dip"
+                android:src="@drawable/ic_action_more"
+                android:scaleType="fitCenter"
+                android:layout_alignParentRight="true" />
+
+            <androidx.appcompat.widget.AppCompatCheckBox
+                android:layout_width="36.0dip"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:padding="5.0dip"
+                android:layout_height="36.0dip"
+                android:visibility="invisible"
+                android:layout_alignParentEnd="true"
+                android:theme="@style/MyCheckBox2"
+                android:layout_alignParentRight="true"
+                android:id="@+id/item_select"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

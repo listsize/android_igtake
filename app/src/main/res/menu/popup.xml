@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/action_copy_url"
+        android:title="@string/action_copy_url"
+        android:icon="@drawable/ic_action_copy_url"
+      />
+    <item android:id="@+id/action_copy_all"
+        android:title="@string/action_copy_all"
+        android:icon="@drawable/ic_action_copy_all"
+       />
+    <item android:id="@+id/action_view_in_instagram"
+        android:title="@string/action_view_in_instagram"
+        android:icon="@drawable/ic_view_in_instagram"
+        />
+    <item android:id="@+id/action_repost"
+        android:title="@string/action_repost"
+        android:icon="@drawable/ic_action_repost"
+        />
+    <item android:id="@+id/action_share"
+        android:title="@string/action_share"
+        android:icon="@drawable/ic_action_share"
+        />
+    <item android:id="@+id/action_delete"
+        android:title="@string/action_delete"
+        android:icon="@drawable/ic_action_delete"
+        />
+</menu>

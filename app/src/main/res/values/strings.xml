@@ -1,0 +1,90 @@
+<resources>
+
+    <string name="app_name" translatable="false">ItSaver</string>
+    <string name="Home">Home</string>
+    <string name="downloads">History</string>
+    <string name="how_to_use">How to use</string>
+    <string name="logout">Logout</string>
+    <string name="tip">Reminder</string>
+    <string name="without_permission">Permission needed</string>
+    <string name="hint_parste">Paste Link</string>
+    <string name="help" translatable="false">Help</string>
+    <string name="error">An error occurred</string>
+    <string name="tip_illegal_url">Invalid Link</string>
+    <string name="tip_loading">Checking…</string>
+    <string name="tip_clipboard_null">The clipboard is empty</string>
+    <string name="tip_login_title">Log in</string>
+    <string name="tip_need_login">According to the latest requirements of Instagram, User need to log in to Instagram, and we will not get any information from you.</string>
+    <string name="toast_this_is_profile" translatable="false">Profile</string>
+    <string name="toast_not_find">None found</string>
+    <string name="toast_network_error">Network error</string>
+    <string name="toast_private_post">Posts Archive</string>
+    <string name="toast_aleady_exists">DOWNLOADED</string>
+    <string name="action_copy_url">Copy link</string>
+    <string name="action_copy_all">Copy all</string>
+    <string name="action_view_in_instagram">View in Instagram</string>
+    <string name="action_repost">Repost</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="toast_open_instagram_error">Could not open Instagram.</string>
+    <string name="download">Download</string>
+    <string name="help_open_instagram">Open Instagram</string>
+    <string name="com_select">Select</string>
+    <string name="another_method">Or</string>
+    <string name="no_downloads">No Downloads</string>
+    <string name="rateus">Rateing</string>
+    <string name="tap_again_to_exit">Tap again to exit</string>
+    <string name="feedback_email" translatable="false">huanbao1996@foxmail.com</string>
+    <string name="ins_feedback_email_title" translatable="false">InstaSaver Feedback</string>
+
+    <string name="action_feedback" translatable="false">Feedback</string>
+    <string name="com_running">Running...</string>
+    <string name="recommand" translatable="false">Recommand</string>
+
+    <string name="com_or">Or</string>
+
+    <string name="com_launch_app">Launch App</string>
+    <string name="com_share_to">Share to ...</string>
+    <string name="com_copy_link">Copy Link</string>
+    <string name="com_operation_success">Operation successful</string>
+
+    <string name="are_u_sure_delete">Are you sure?</string>
+    <string name="com_occur_error">An error has occurred. Please try again.</string>
+    <string name="whyhavetologin">Why do I have to login?</string>
+    <string name="posts">post</string>
+    <string name="stories">story</string>
+    <string name="login">Login</string>
+    <string name="thisisa">This is a %1$s</string>
+    <string name="thisisaprivate">This is a private %1$s</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_gallery" translatable="false">Galley</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="install" translatable="false">Install</string>
+    <string name="toast_unsupport_link">Link not supported</string>
+
+    <string name="browser">Browser</string>
+
+    <string name="tip_downloaded">Download successful</string>
+    <string name="tip_start_download">Start Download</string>
+    <string name="how_to_download_use_browser">How to use browser?</string>
+
+    <string name="how_to_download_something">How to download (%s)?</string>
+    <string name="story">Story</string>
+    <string name="post">Post</string>
+    <string name="vip_tip">You are VIP, no more ads will be displayed</string>
+    <string name="save">Save</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="all">All</string>
+    <string name="least_one_item">Please select at least one item</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="no_install_instagram">Please install Instagram App</string>
+    <string name="btn_continue">Subscribe</string>
+    <string name="sub_description"><![CDATA[
+    By subscribing, you agree to our <a href="https://aosdoc-74380.web.app/terms.html">Terms of Service</a>.Subscriptions auto-renew until canceled.You can cancel your subscription at any time, you may only cancel your subscription via the Google Play Store.
+        ]]></string>
+    <string name="please_wait">Please Wait</string>
+
+
+</resources>

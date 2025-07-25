@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Home">Inicio</string>
+    <string name="downloads">Descargas</string>
+    <string name="how_to_use">Instrucciones de uso</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="tip">Recordatorio</string>
+    <string name="without_permission">Se necesitan permisos</string>
+    <string name="hint_parste">Pegar vínculo</string>
+    <string name="error">Se ha producido un error</string>
+    <string name="tip_illegal_url">Enlace no válido</string>
+    <string name="tip_loading">Comprobando...</string>
+    <string name="tip_clipboard_null">El portapapeles está vacío</string>
+    <string name="tip_login_title">Inicia sesión</string>
+    <string name="toast_not_find">No se encontraron resultados</string>
+    <string name="toast_network_error">Error de red</string>
+    <string name="toast_private_post">Archivo de publicaciones</string>
+    <string name="toast_aleady_exists">Descargado</string>
+    <string name="action_copy_url">Copiar enlace</string>
+    <string name="action_copy_all">Copiar todo</string>
+    <string name="action_view_in_instagram">Ver en Instagram</string>
+    <string name="action_repost">Volver a publicar</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="toast_open_instagram_error">No se pudo abrir Instagram.</string>
+    <string name="download">Descargar</string>
+    <string name="help_open_instagram">Abrir Instagram</string>
+    <string name="another_method">o</string>
+    <string name="no_downloads">No hay descargas</string>
+    <string name="tip_need_login">De acuerdo con los últimos requisitos de Instagram, el usuario debe iniciar sesión en Instagram y no obtendremos ninguna información suya.</string>
+    <string name="rateus">Puntuación</string>
+    <string name="tap_again_to_exit">Salir</string>
+    <string name="com_running">Ejecutando...</string>
+    <string name="com_or">o</string>
+
+    <string name="com_launch_app">Lanzar aplicación</string>
+    <string name="com_copy_link">Copiar enlace</string>
+    <string name="com_share_to">Compartir en...</string>
+    <string name="com_select">SELECCIONAR</string>
+    <string name="are_u_sure_delete">¿Estás seguro?</string>
+    <string name="com_operation_success">Operación exitosa</string>
+    <string name="com_occur_error">Se ha producido un error. Inténtalo de nuevo.</string>
+    <string name="whyhavetologin">¿Por qué tengo que iniciar sesión?</string>
+    <string name="stories">Historia</string>
+    <string name="posts">Publicar</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="thisisa">Esto es un %1$s</string>
+    <string name="thisisaprivate">Esto es un %1$s privado</string>
+    <string name="toast_unsupport_link">Enlace no compatible</string>
+    <string name="browser">Navegador</string>
+    <string name="tip_start_download">Iniciar descarga</string>
+    <string name="tip_downloaded">Se descargó</string>
+    <string name="how_to_download_use_browser">¿Cómo usar el navegador?</string>
+    <string name="how_to_download_something">Descargar idiomas(%s)?</string>
+    <string name="story">Historia</string>
+    <string name="post">Publicación</string>
+    <string name="save">Guardar</string>
+
+    <string name="remove_ads">Quitar los anuncios</string>
+    <string name="least_one_item">Por favor seleccione al menos un elemento</string>
+    <string name="privacy">Política de privacidad</string>
+
+</resources>

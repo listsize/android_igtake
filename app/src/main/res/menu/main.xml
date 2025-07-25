@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/action_remove_ads"
+        android:title="@string/remove_ads"
+        android:icon="@drawable/removeads"
+        app:showAsAction="ifRoom"/>
+
+
+    <item android:id="@+id/action_vip"
+        android:title="@string/recommand"
+        android:icon="@drawable/vip_icon"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_help"
+        android:title="@string/how_to_use"
+        android:icon="@drawable/ic_action_help"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_instagram"
+        android:title="@string/instagram"
+        android:icon="@drawable/ic_instagram"
+        app:showAsAction="ifRoom"/>
+
+</menu>

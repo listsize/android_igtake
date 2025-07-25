@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.main.DownloadsActivity">
+
+        <fragment
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:id="@+id/id_downloadsfrag"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:name="com.instadownloader.instasave.igsave.ins.ui.main.DownloadsFragment"
+            android:label="@string/downloads"
+            tools:layout="@layout/downloads_fragment">
+        </fragment>
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</layout>

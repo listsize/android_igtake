@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Home">الصفحة الرئيسية</string>
+    <string name="downloads">التنزيلات</string>
+    <string name="how_to_use">كيف يستخدم؟</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="tip">تذكير</string>
+    <string name="without_permission">مطلوب منح إذن</string>
+    <string name="hint_parste">لصق الارتباط</string>
+    <string name="error">حدث خطأ</string>
+    <string name="tip_illegal_url">رابط غير صالح</string>
+    <string name="tip_loading">جاري التحقق...</string>
+    <string name="tip_clipboard_null">ذاكرة النصوص فارغة</string>
+    <string name="tip_login_title">‏تسجيل الدخول</string>
+    <string name="toast_not_find">لم يتم العثور على أية تطابقات.</string>
+    <string name="toast_network_error">حدث خطأ في الشبكة</string>
+    <string name="toast_private_post">أرشيف المنشورات</string>
+    <string name="toast_aleady_exists">تم التنزيل</string>
+    <string name="action_copy_url">نسخ الرابط</string>
+    <string name="action_copy_all">نسخ الكل</string>
+    <string name="action_view_in_instagram">عرض في Instagram</string>
+    <string name="action_repost">إبلاغ</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_delete">حذف</string>
+    <string name="toast_open_instagram_error">تعذر فتح Instagram.</string>
+    <string name="download">تنزيل</string>
+    <string name="help_open_instagram">افتح Instagram</string>
+    <string name="another_method">‏أو</string>
+    <string name="no_downloads">لا يوجد أي تنزيلات</string>
+    <string name="tip_need_login">وفقًا لأحدث متطلبات Instagram ، يحتاج المستخدم إلى تسجيل الدخول إلى Instagram ، ولن نحصل على أي معلومات منك.</string>
+    <string name="rateus">التقييم</string>
+    <string name="tap_again_to_exit">خروج</string>
+    <string name="com_running">جارٍ التشغيل...</string>
+    <string name="com_or">‏أو</string>
+    <string name="com_launch_app">إطلاق التطبيق</string>
+    <string name="com_share_to">مشاركة إلى</string>
+    <string name="com_copy_link">نسخ الرابط</string>
+    <string name="com_select">تحديد</string>
+    <string name="are_u_sure_delete">هل أنت متأكد؟</string>
+    <string name="com_operation_success">"تمت العملية بنجاح "</string>
+    <string name="com_occur_error">حدث خطأ، يُرجى إعادة المحاولة.</string>
+    <string name="whyhavetologin">لماذا يجب علي تسجيل الدخول؟</string>
+    <string name="posts">المنشورات</string>
+    <string name="stories">القصة</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="thisisa">لماذا يجب علي تسجيل الدخول؟</string>
+    <string name="thisisaprivate">لماذا يجب علي تسجيل الدخول؟</string>
+    <string name="browser">المتصفح</string>
+    <string name="tip_start_download">بدء التنزيل</string>
+    <string name="tip_downloaded">تم التنزيل بنجاح</string>
+    <string name="how_to_download_use_browser">كيف تستخدم المتصفح؟</string>
+
+    <string name="how_to_download_something">طريقة التنزيل(%s)?</string>
+    <string name="story">القصة</string>
+    <string name="post">المنشورات</string>
+    <string name="save">حفظ</string>
+    <string name="remove_ads">إزالة الإعلانات</string>
+    <string name="least_one_item">الرجاء تحديد عنصر واحد على الأقل</string>
+    <string name="privacy">‏سياسة الخصوصيّة</string>
+
+</resources>

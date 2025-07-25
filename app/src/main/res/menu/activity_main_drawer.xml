@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_removeads"
+            android:icon="@drawable/removeads"
+            android:visible="false"
+            android:title="@string/remove_ads" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/baseline_help_outline_24"
+            android:title="@string/how_to_use" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/baseline_share_24"
+            android:title="@string/action_share" />
+        <item
+            android:id="@+id/nav_feed_back"
+            android:icon="@drawable/baseline_send_24"
+            android:title="@string/action_feedback" />
+        <item android:id="@+id/nav_logout"
+            android:title="@string/logout"
+            android:visible="false"
+            android:icon="@drawable/baseline_logout_24"
+            />
+    </group>
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="toobar_bg">@color/night_bg</color>
+    <color name="edit_bg">#38373c</color>
+    <color name="daynight_text">#ffffff</color>
+    <color name="daynight_bg">#1f1e23</color>
+
+    <color name="common_bg">#1f1e23</color>
+    <color name="daynight_ad_bg">@color/daynight_bg</color>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Home">Accueil</string>
+    <string name="downloads">Téléchargements</string>
+    <string name="how_to_use">\"Comment l\'utiliser?\"</string>
+    <string name="logout">Déconnexion</string>
+    <string name="tip">Rappel</string>
+    <string name="without_permission">Autorisation nécessaire.</string>
+    <string name="hint_parste">Coller lien</string>
+    <string name="error">\"Une erreur s\'est produite.\"</string>
+    <string name="tip_illegal_url">Lien non valide</string>
+    <string name="tip_loading">En cours…</string>
+    <string name="tip_clipboard_null">Le presse-papiers est vide</string>
+    <string name="tip_login_title">Connexion</string>
+    <string name="toast_not_find">Aucune occurrence</string>
+    <string name="toast_network_error">Erreur réseau.</string>
+    <string name="toast_private_post">Archives de publications</string>
+    <string name="toast_aleady_exists">Téléchargé</string>
+    <string name="action_copy_url">Copier le lien</string>
+    <string name="action_copy_all">Copier tout</string>
+    <string name="action_view_in_instagram">Voir dans Instagram</string>
+    <string name="action_repost">Republier</string>
+    <string name="action_share">Partager</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="toast_open_instagram_error">Impossible d’ouvrir Instagram.</string>
+    <string name="download">Télécharger</string>
+    <string name="help_open_instagram">Ouvrir Instagram</string>
+    <string name="another_method">ou</string>
+    <string name="no_downloads">Aucune vidéo téléchargée</string>
+    <string name="tip_need_login">Selon les dernières exigences d\'Instagram, l\'utilisateur doit se connecter à Instagram et nous n\'obtiendrons aucune information de votre part.</string>
+    <string name="rateus">Avis</string>
+    <string name="tap_again_to_exit">Quitter</string>
+    <string name="com_running">Exécution...</string>
+    <string name="com_or">ou</string>
+    <string name="com_launch_app">\"Lancer l\'appli\"</string>
+    <string name="com_share_to">Partager sur...</string>
+    <string name="com_copy_link">Copier le lien</string>
+    <string name="com_select">SÉLECTIONNER</string>
+    <string name="are_u_sure_delete">Voulez-vous vraiment ignorer cette étape ?</string>
+    <string name="com_operation_success">Opération réussie</string>
+    <string name="com_occur_error">Une erreur s\'est produite. Veuillez réessayer.</string>
+    <string name="whyhavetologin">Pourquoi dois-je me connecter ?</string>
+    <string name="posts">Publications</string>
+    <string name="stories">Actualité</string>
+    <string name="login">Connexion</string>
+    <string name="thisisa">C\'est un %1$s</string>
+    <string name="thisisaprivate">Ceci est un %1$s privé</string>
+    <string name="toast_unsupport_link">Lien non pris en charge</string>
+    <string name="browser">Navigateur</string>
+    <string name="tip_start_download">Lancer le téléchargement</string>
+    <string name="tip_downloaded">Téléchargement réussi</string>
+    <string name="how_to_download_use_browser">" Comment utiliser le navigateur ?"</string>
+    <string name="how_to_download_something">Comment télécharger(%s)?</string>
+    <string name="story">Actualité</string>
+    <string name="post">publication</string>
+    <string name="save">Sauvegarder</string>
+    <string name="remove_ads">Supprimer les publicités</string>
+    <string name="least_one_item">Veuillez sélectionner au moins un élément</string>
+
+    <string name="privacy">Politique de confidentialité</string>
+
+</resources>

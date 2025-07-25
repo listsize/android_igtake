@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Home">Start</string>
+    <string name="downloads">Downloads</string>
+    <string name="how_to_use">Verwendung</string>
+    <string name="logout">Abmelden</string>
+    <string name="tip">Erinnerung</string>
+    <string name="without_permission">Erlaubnis erforderlich</string>
+    <string name="hint_parste">Link einfügen</string>
+    <string name="error">Ein Fehler ist aufgetreten.</string>
+    <string name="tip_illegal_url">Ungültiger Link</string>
+    <string name="tip_loading">Überprüfe …</string>
+    <string name="tip_clipboard_null">Zwischenablage ist leer</string>
+    <string name="tip_login_title">Anmelden</string>
+    <string name="toast_not_find">Keine Treffer</string>
+    <string name="toast_network_error">Netzwerkfehler</string>
+    <string name="toast_private_post">Beitragsarchiv</string>
+    <string name="toast_aleady_exists">Heruntergeladen</string>
+    <string name="action_copy_url">Link kopieren</string>
+    <string name="action_copy_all">Alles kopieren</string>
+    <string name="action_view_in_instagram">Auf Instagram ansehen</string>
+    <string name="action_repost">Erneut posten</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_delete">Löschen</string>
+    <string name="toast_open_instagram_error">Instagram konnte nicht geöffnet werden.</string>
+    <string name="download">Herunterladen</string>
+    <string name="help_open_instagram">Instagram öffnen</string>
+    <string name="another_method">oder</string>
+    <string name="no_downloads">Keine Downloads</string>
+    <string name="tip_need_login">Gemäß den neuesten Anforderungen von Instagram muss sich der Benutzer bei Instagram anmelden, und wir erhalten keine Informationen von Ihnen.</string>
+    <string name="rateus">Bewertung</string>
+    <string name="tap_again_to_exit">Verlassen</string>
+    <string name="com_running">In Bearbeitung...</string>
+    <string name="com_or">oder</string>
+
+    <string name="com_launch_app">App starten</string>
+    <string name="com_copy_link">Link kopieren</string>
+    <string name="com_share_to">Teilen in...</string>
+    <string name="com_select">AUSWÄHLEN</string>
+    <string name="are_u_sure_delete">Bist du sicher?</string>
+
+    <string name="com_operation_success">Vorgang erfolgreich.</string>
+    <string name="com_occur_error">Ein Fehler ist aufgetreten. Bitte versuche es noch einmal.</string>
+    <string name="whyhavetologin">Warum muss ich mich anmelden?</string>
+    <string name="posts">Beiträge</string>
+    <string name="stories">Stories</string>
+    <string name="login">Anmeldung</string>
+    <string name="thisisa">Dies ist ein %1$s</string>
+    <string name="thisisaprivate">Dies ist eine private %1$s</string>
+    <string name="toast_unsupport_link">Link wird nicht unterstützt</string>
+    <string name="browser">Browser</string>
+    <string name="tip_start_download">Download beginnen</string>
+    <string name="tip_downloaded">Heruntergeladen</string>
+    <string name="how_to_download_use_browser">Wie benutze ich den Browser?</string>
+    <string name="how_to_download_something">So funktioniert der Download(%s)?</string>
+    <string name="story">Stories</string>
+    <string name="post">Erstellen</string>
+    <string name="save">Speichern</string>
+    <string name="remove_ads">Werbung entfernen</string>
+    <string name="least_one_item">Bitte wählen Sie mindestens einen Artikel aus</string>
+    <string name="privacy">Datenschutzrichtlinien</string>
+
+</resources>

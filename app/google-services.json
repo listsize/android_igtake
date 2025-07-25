@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89887417188",
+    "project_id": "instake-5abb4",
+    "storage_bucket": "instake-5abb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89887417188:android:0104fe612246c3f6445071",
+        "android_client_info": {
+          "package_name": "com.instadownloader.instasave.igsave.ins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89887417188-fa3il4g569chauccekhjks68oltfv512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqoFlCTLL6exghV9ENRFVxpkPJ6oXzYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89887417188-fa3il4g569chauccekhjks68oltfv512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
