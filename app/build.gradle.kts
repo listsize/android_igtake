@@ -21,8 +21,8 @@ android {
         applicationId = "com.instadownloader.instasave.igsave.ins"
         minSdk = 23
         targetSdk = 34
-        versionCode =137
-        versionName ="1.37"
+        versionCode =138
+        versionName ="1.38"
         multiDexEnabled = true
 
         dataBinding {

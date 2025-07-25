@@ -376,6 +376,9 @@ class LoadFragment : Fragment() {
         activity?.let { act->
             val application = act.application as? AdSplashApplication
 
+            if (MyUtils.vip){
+                return
+            }
 
             if (AppSplashActivity.isDisableSplashAdNextTime){
                 AppSplashActivity.isDisableSplashAdNextTime = false
