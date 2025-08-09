@@ -39,7 +39,7 @@ class AppSplashActivity: SplashActivity() {
 
 
 
-        if (progress >= 20){
+        if (progress >= 15){
             if (MyUtils.vip){
                 startMainJourney()
             }else{
