@@ -53,7 +53,7 @@ class MyApp : AdSplashApplication(){
 
     override fun initAdUnitConfig() {
         AdUnitID.AD_SPLASH_ID = "ca-app-pub-8166307674328646/1832889051"
-        AdUnitID.AD_SPLASH_INTER_ID = "ca-app-pub-8166307674328646/4078663963"
+        AdUnitID.AD_SPLASH_INTER_ID = "ca-app-pub-8166307674328646/5326765052"
     }
 
 }
