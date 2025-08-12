@@ -76,7 +76,7 @@
 
 
         <activity
-            android:name=".AppSplashActivity"
+            android:name=".StartupActivity"
             android:exported="true"
             android:screenOrientation="portrait" >
 

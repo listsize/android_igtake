@@ -65,9 +65,9 @@ dependencies {
     implementation ("com.google.firebase:firebase-analytics")
     implementation ("com.google.firebase:firebase-crashlytics")
 
-    implementation ("com.aos.libs:admob:1.1.0")
+    implementation ("com.aos.libs:admob:1.2.0")
     implementation ("com.aos.libs:billing:1.0.0")
-    implementation ("com.aos.libs:base:1.0.2")
+    implementation ("com.aos.libs:base:1.1.0")
 
 
     implementation ("org.jetbrains.kotlin:kotlin-stdlib:2.0.21")
